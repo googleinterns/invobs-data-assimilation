@@ -1,0 +1,6 @@
+numpy
+scipy
+jax==0.2.6
+flax==0.3.0
+xarray
+seaborn
