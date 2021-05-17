@@ -4,7 +4,7 @@ This repository contains an implementation of the algorithm analyzed in our pape
 
 [**Variational Data Assimilation with a Learned Inverse Observation Operator**](https://arxiv.org/abs/2102.11192)
 
-This is not an official Google project.
+This is a research project, not an official Google product.
 
 Repository Overview
 -------------------
