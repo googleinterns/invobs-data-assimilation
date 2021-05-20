@@ -48,8 +48,11 @@ Please install `jaxlib==0.1.57` for your cuda version, e.g. for cuda 11.0,
 pip install -U jaxlib==0.1.57+cuda110 -f https://storage.googleapis.com/jax-releases/jax_releases.html
 ```
 The Navier-Stokes equations for the Kolmogorov flow dynamical system are solved
-using [JAX-CFD](https://github.com/google/jax-cfd). Please install the latest
-version.
+using [JAX-CFD](https://github.com/google/jax-cfd). 
+Please install `jax_cfd==0.1.0`,
+```
+pip install -U jax_cfd==0.1.0
+```
 
 All other dependencies are listed in `requirements.txt`.
 
